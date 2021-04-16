@@ -19,8 +19,8 @@ public class Main {
 
 //        запускаем все 3 варианта, заполнения, поочереди
           preparedStmtEx();
-          batchEx();
-          transactionEx();
+//          batchEx();
+//          transactionEx();
 
            selectEx();
 
